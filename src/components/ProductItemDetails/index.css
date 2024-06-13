@@ -1,0 +1,95 @@
+/* Write your CSS here */
+.product-image {
+  height: 450px;
+  border-radius: 10px;
+}
+.failure-container{
+  text-align: center;
+}
+.failure-image {
+  height: 60vh;
+}
+.loader-container {
+  display: flex;
+  justify-content: center;
+}
+.continue-shopping-button {
+  border-width: 0px;
+  background-color: #3b82f6;
+  padding: 10px;
+  color: white;
+  border-radius: 5px;
+}
+.main-bg-similar-containerr {
+  padding: 30px;
+}
+.similar-products-un-ordered-list-container {
+  list-style-type: none;
+  margin-left: 0px;
+  display: flex;
+  padding-left: 0px;
+}
+.similar-products-container {
+  margin-left: 120px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.add-to-cart-button {
+  border-width: 0px;
+  background-color: #3b82f6;
+  border-radius: 5px;
+  color: white;
+  padding: 10px;
+}
+.product-add-buttons-container {
+  display: flex;
+  justify-content: space-around;
+  width: 100px;
+}
+.product-minus-button {
+  border-width: 0px;
+  background-color: transparent;
+  align-self: center;
+}
+.product-plus-button {
+  border-width: 0px;
+  background-color: transparent;
+  align-self: center;
+}
+
+.total-reviews-text {
+  font-size: 14px;
+  align-self: center;
+  margin-left: 5px;
+}
+.product-details-text-content {
+  padding-left: 10px;
+  width: 45%;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+.rating-text {
+  align-self: center;
+}
+.star-number-container {
+  display: flex;
+  background-color: #3b82f6;
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+  align-self: center;
+}
+.products-card-container {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+.star-container {
+  display: flex;
+}
+.star-icon {
+  height: 20px;
+  align-self: center;
+}

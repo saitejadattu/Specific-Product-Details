@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.similar-product-image {
+  height: 180px;
+  border-radius: 10px;
+}
+.price-rating-container {
+  display: flex;
+  justify-content: space-between;
+}
+.similar-products-list-item {
+  margin-right: 50px;
+  width: 180px;
+}
